@@ -1,6 +1,5 @@
 # Nexus Framework Core V4
-
-[![DOI](https://img.shields.io/badge/DOI-pending-blue.svg)](https://zenodo.org/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20105298.svg)](https://doi.org/10.5281/zenodo.20105298)
 [![License: Custom](https://img.shields.io/badge/License-Proprietary/Academic-red.svg)](#licencia)
 
 **Motor de Dinámica de Fases y Criticalidad Informacional**  
@@ -13,14 +12,14 @@ Desarrollado por **Erick Fernando Rojas R. (Efeseis-F6)**
 
 Nexus Framework Core V4 es un framework computacional experimental diseñado para el estudio de sistemas complejos y dinámicas emergentes. El sistema utiliza una arquitectura de redes ternarias discretas para explorar cómo reglas de interacción local producen orden estructural global.
 
-### Áreas de Estudio:
+### Áreas de Estudio
 *   **Sincronización emergente:** Formación de dominios coherentes.
 *   **Dinámica de fases:** Transiciones entre estados de orden y desorden.
 *   **Curvatura informacional:** Mecanismos de penalización geométrica local.
 *   **Criticalidad autoorganizada:** Evolución hacia estados metaestables.
 *   **Correlación espacial:** Medición de la coherencia tensorial del sistema.
 
-## El Modelo Ternario
+##  Modelo Ternario
 
 El framework opera sobre una grilla bidimensional donde cada celda posee un estado informacional discreto:
 
@@ -44,23 +43,39 @@ La evolución del sistema integra acoplamiento no lineal, perturbación térmica
 ```bash
 git clone https://github.com/efeseis/nexus-framework-core-v4.git
 cd nexus-framework-core-v4
+```
 
-2. Instalar dependencias
+### 2. Instalar dependencias
+
+```bash
 pip install -r requirements.txt
+```
 
-3. Ejecutar simulación
+### 3. Ejecutar simulación
+
+```bash
 python nexus_framework_core_v4.py
+```
 
-Reproducibilidad Científica
+---
 
-Este proyecto utiliza una semilla aleatoria fija (seed(42)) para garantizar que todos los resultados, métricas y snapshots presentados en el paper puedan ser replicados exactamente por investigadores externos, asegurando la trazabilidad total del experimento.
+## Reproducibilidad Científica
 
-Citación
+Este proyecto utiliza una semilla aleatoria fija (`seed(42)`) para garantizar que todos los resultados, métricas y snapshots presentados en el paper puedan ser replicados exactamente por investigadores externos, asegurando la trazabilidad total del experimento.
+
+---
+
+## Citación
 
 Si utilizas este framework en tu investigación, por favor cítalo de la siguiente manera:
-Rojas, E. F. (2026). Nexus Framework Core V4: Motor de Dinámica de Fases y Criticalidad Informacional. NexusLab Atacama SPA. Zenodo DOI: [PENDIENTE].
 
-Licencia
+```text
+Rojas, E. F. (2026). Nexus Framework Core V4: Motor de Dinámica de Fases y Criticalidad Informacional. NexusLab Atacama SPA. Zenodo DOI: 10.5281/zenodo.20105298
+```
+
+---
+
+## Licencia
 
 Este framework se publica bajo una licencia de Atribución Académica y Uso Científico No Comercial.
 
@@ -68,4 +83,4 @@ Se permite el uso, estudio y reproducción con fines de investigación académic
 
 La publicación de este código no implica cesión de propiedad intelectual sobre los motores avanzados, sistemas de optimización o tecnologías internas de NexusLab Atacama SPA.
 
-Para más detalles, consulte el archivo LICENSE.txt.
+Para más detalles, consulte el archivo `LICENSE.txt`.
