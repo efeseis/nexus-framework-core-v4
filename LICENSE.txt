@@ -1,0 +1,65 @@
+NEXUS FRAMEWORK CORE V4 LICENSE
+Copyright (c) 2026
+Erick Fernando Rojas R. (Efeseis-F6)
+NexusLab Atacama SPA
+
+Permission is granted to use, reproduce and study this framework
+for scientific, academic and non-commercial research purposes,
+provided that proper attribution to the original author and
+NexusLab Atacama SPA is maintained.
+
+The publication of this framework and associated source code does
+not constitute transfer of intellectual property rights over:
+
+- proprietary Nexus engines,
+- optimization systems,
+- commercial implementations,
+- derived private architectures,
+- or internal NexusLab technologies.
+
+Commercial use, redistribution as proprietary software,
+closed-source derivative commercialization, or unauthorized
+rebranding of the framework is prohibited without explicit
+written permission from the author.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+Author:
+Erick Fernando Rojas R. (Efeseis-F6)
+
+NexusLab Atacama SPA
+Vallenar, Chile
+2026
+
+LICENCIA NEXUS FRAMEWORK CORE V4
+
+Copyright (c) 2026
+Erick Fernando Rojas R. (Efeseis-F6)
+NexusLab Atacama SPA
+
+Se concede permiso para utilizar, reproducir y estudiar este framework
+con fines científicos, académicos y de investigación no comercial,
+siempre que se mantenga la atribución correspondiente al autor original
+y a NexusLab Atacama SPA.
+
+La publicación de este framework y de su código fuente asociado no
+constituye transferencia de derechos de propiedad intelectual sobre:
+
+- motores propietarios Nexus,
+- sistemas de optimización,
+- implementaciones comerciales,
+- arquitecturas privadas derivadas,
+- ni tecnologías internas desarrolladas por NexusLab.
+
+El uso comercial, redistribución como software propietario,
+comercialización de derivados cerrados o cambio de marca no autorizado
+del framework queda prohibido sin autorización escrita explícita del autor.
+
+EL SOFTWARE SE PROPORCIONA "TAL COMO ESTÁ", SIN GARANTÍAS DE NINGÚN TIPO.
+
+Autor:
+Erick Fernando Rojas R. (Efeseis-F6)
+
+NexusLab Atacama SPA
+Vallenar, Chile
+2026
